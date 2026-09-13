@@ -1,8 +1,5 @@
 # Syn-TeloClamp: Synthetic Molecular Set-Point Gating for Telomere Homeostasis
 
-[![ESMFold Validated](https://img.shields.io/badge/ESMFold-Validated-brightgreen)](#3d-structural-architecture)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Syn-TeloClamp** is an in-silico engineered, cell-cycle-regulated chimeric protein switch designed to establish strict telomere length homeostasis (~5,000 bp) in human cells.
 
