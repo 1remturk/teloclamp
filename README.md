@@ -3,7 +3,7 @@
 
 **Syn-TeloClamp** is an in-silico engineered, cell-cycle-regulated chimeric protein switch designed to establish strict telomere length homeostasis (~5,000 bp) in human cells.
 
-By exploiting polymer loop mechanics (Worm-Like Chain model) and cell-cycle phosphorylation gates, Syn-TeloClamp prevents both replicative senescence (Hayflick limit) and malignant hyper-elongation while protecting replication forks from genotoxic collapse during S-phase.
+By exploiting polymer loop mechanics  and cell-cycle phosphorylation gates, Syn-TeloClamp prevents both Hayflick limit and malignant hyper-elongation while protecting replication forks from genotoxic collapse during S-phase.
 
 ---
 
